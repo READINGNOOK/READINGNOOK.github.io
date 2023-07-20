@@ -38,7 +38,7 @@ repository]https://github.com/READINGNOOK/READINGNOOK.github.io
   - 
 
 See also the list of
-[contributors]https://github.com/THEREADINGNOOK/THEREADINGNOOK.github.io/graphs/contributors
+[contributors](https://github.com/THEREADINGNOOK/THEREADINGNOOK.github.io/)graphs/contributors
 who participated in this project.
 
 ## License
