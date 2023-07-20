@@ -49,4 +49,3 @@ details
  
   - Inspiration
   - etc
-
